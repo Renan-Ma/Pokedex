@@ -28,7 +28,7 @@ A ideia é usar a Poke Api como fonte de dados para o projeto. Ela é uma API p�
    - Ver uma tabela de movimentos do Pokémon;
    - Poder voltar para as outras páginas.
    
-   ## :books: Bibliotecas utilizadas:
+## :books: Bibliotecas utilizadas:
 - styled-components
 - axios
 - react-icons
